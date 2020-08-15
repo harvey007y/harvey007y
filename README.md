@@ -1,4 +1,4 @@
-### Hi there, I'm Wade - aka [harvey007y][website] 👋
+### Hi there, I'm Wade - aka [IdealAutomate.com][website] 👋
 
 [![Website](http://img.shields.io/website?label=IdealAutomate.com&style=for-the-badge&url=http%3A%2F%2Fidealautomate.com)](http://idealautomate.com/)
 
