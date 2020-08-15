@@ -88,6 +88,9 @@
 
   <img align="left" alt="harvey007y's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harvey007y&show_icons=true&hide_border=true" />
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvey007y)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </details>
 
 [website]: http://idealautomate.com/
