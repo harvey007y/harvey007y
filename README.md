@@ -64,11 +64,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [ASP.NET How to Use Cookies](http://idealprogrammer.com/knowledge-base/asp-net/aspnet-cookies/)
+- [Set Breakpoint on Every Method in Visual Studio](http://idealprogrammer.com/net-languages/visual-studio-c/set-breakpoint-method-visual-studio/)
+- [Wrap SQL in Quotes for C-Sharp Tool](http://idealprogrammer.com/net-languages/c/wrap-sql-quotes-csharp-tool/)
+- [Free C# Open Source Alternative to EditPlus – FindTextInFiles](http://idealprogrammer.com/development_tools/file-search/free-open-source-alternative-editplus-findtextinfiles/)
+- [Alternative to SQL Profiler – IdealSqlTracer is Simple, Free, and Open Source](http://idealprogrammer.com/net-languages/c/idealsqltracer-simple-free-open-source-alternative-sql-profiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://idealprogrammer.com/)
@@ -79,11 +79,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#1](https://github.com//harvey007y/IdealActions/pull/1) in [harvey007y/IdealActions](https://github.com//harvey007y/IdealActions)
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 </details>
