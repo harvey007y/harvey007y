@@ -50,11 +50,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [Overview of Vivekananda's 1896 speech entitled "The Real And Apparent Man"](https://www.youtube.com/watch?v=RnsrQPewpAc)
+- [Getting Started With Python Dev Using Visual Studio Tools - Slide Deck](https://www.youtube.com/watch?v=DIt_U35Q4BU)
+- [Automate Creating Slide Deck When Watching Video Tutorials](https://www.youtube.com/watch?v=xYWV-7dw_3c)
+- [Automate Note Taking Process When Watching Video Tutorials](https://www.youtube.com/watch?v=4N6r6Wp1fPI)
+- [What is a Snipping Tool? It is One of Many Note Taking Strategies Used When Watching Video Tutorials](https://www.youtube.com/watch?v=qhW5F059eBQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/WadeHarvey)
