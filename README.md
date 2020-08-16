@@ -3,7 +3,7 @@
 [![Website](http://img.shields.io/website?label=IdealAutomate.com&style=for-the-badge&url=http%3A%2F%2Fidealautomate.com)](http://idealautomate.com/)
 
 
-## I'm a Husband, Father, Developer!
+## I'm a Husband, Father, and a Developer!
 
 - 🔭 I’m currently working on a [Ideal Automate][website]!
 - 🌱 I’m currently learning everything 🤣
