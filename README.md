@@ -29,7 +29,7 @@
 
 [<img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][idealautomateplaylist]
 [<img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][idealautomateplaylist]
-[<img align="left" alt="Jquery" width="26px" title="JQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][idealautomateplaylist]
+[<img align="left" alt="Jquery" width="46px" title="JQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][idealautomateplaylist]
 [<img align="left" alt="JavaScript" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][idealautomateplaylist]
 
 [<img align="left" alt="Visual Studio" width="26px" title="Visual Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][idealautomateplaylist]
