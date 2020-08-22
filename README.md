@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotic Hand Solves Rubik's Cube](http://idealprogrammer.com/other-languages/uncategorized/robotic-hand-solves-rubiks-cube/)
 - [ASP.NET How to Use Cookies](http://idealprogrammer.com/knowledge-base/asp-net/aspnet-cookies/)
 - [Set Breakpoint on Every Method in Visual Studio](http://idealprogrammer.com/net-languages/visual-studio-c/set-breakpoint-method-visual-studio/)
 - [Wrap SQL in Quotes for C-Sharp Tool](http://idealprogrammer.com/net-languages/c/wrap-sql-quotes-csharp-tool/)
 - [Free C# Open Source Alternative to EditPlus – FindTextInFiles](http://idealprogrammer.com/development_tools/file-search/free-open-source-alternative-editplus-findtextinfiles/)
-- [Alternative to SQL Profiler – IdealSqlTracer is Simple, Free, and Open Source](http://idealprogrammer.com/net-languages/c/idealsqltracer-simple-free-open-source-alternative-sql-profiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://idealprogrammer.com/)
