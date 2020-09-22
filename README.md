@@ -3,7 +3,7 @@
 [![Website](http://img.shields.io/website?label=IdealAutomate.com&style=for-the-badge&url=http%3A%2F%2Fidealautomate.com)](http://idealautomate.com/)
 
 
-## Solving Problem of Problem Solving (Antimetabole[https://literarydevices.net/antimetabole/#:~:text=Antimetabole%20Definition,a%20phrase%20in%20reverse%20order.])
+## Solving Problem of Problem Solving 
 
 - 🔭 I’m currently working on a [Ideal Automate][website]!
 - 🌱 I’m currently learning everything 🤣
