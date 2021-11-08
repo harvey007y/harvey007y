@@ -59,7 +59,7 @@
 <!-- YOUTUBE:START -->
 - [Creating A Popup Balloon to Guide Someone Step By Step](https://www.youtube.com/watch?v=vexDNNlRwIo)
 - [How to Create a Web Api project with Visual Studio](https://www.youtube.com/watch?v=rrLvUlZulTs)
-- [Overview of Vivekananda's 1896 speech entitled "The Real And Apparent Man"](https://www.youtube.com/watch?v=RnsrQPewpAc)
+- [Overview of Vivekananda&#39;s 1896 speech entitled &quot;The Real And Apparent Man&quot;](https://www.youtube.com/watch?v=RnsrQPewpAc)
 - [Getting Started With Python Dev Using Visual Studio Tools - Slide Deck](https://www.youtube.com/watch?v=DIt_U35Q4BU)
 - [Automate Creating Slide Deck When Watching Video Tutorials](https://www.youtube.com/watch?v=xYWV-7dw_3c)
 <!-- YOUTUBE:END -->
